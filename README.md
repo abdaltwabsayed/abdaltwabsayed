@@ -1,4 +1,5 @@
-<div align="center"> <h1>👋 Hi, I'm Abdaltwab Okasha Elsheikh</h1> <h3>Computer Science Engineering student focusing on full-stack web development.</h3> <p>📍 Based in Egypt</p> <!-- Animated typing SVG banner placeholder --> <!-- Replace with: ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+Profile!) --> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7FF&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /> </div>
+<div align="center"> <h1>👋 Hi, I'm Abdaltwab Okasha Elsheikh</h1> <h3>Computer Science Engineering student focusing on full-stack web development.</h3> <p>📍 Based in Egypt</p> <!-- Animated typing SVG banner placeholder -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2D3748&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Abdaltwab+Okasha+Elsheikh;CS+Engineer;Full-Stack+Developer" alt="Typing SVG" /> </div>
 
 🚀 About Me
 🌟 I am currently developing my front-end and full-stack knowledge on FreeCodeCamp.
