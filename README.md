@@ -6,7 +6,7 @@
 🌟 I am currently developing my front-end and full-stack knowledge on FreeCodeCamp and building my skills in React and modern web development.<br>
 🎮 I am building a Python Minesweeper game.
 📚 I am studying Computer Science Engineering, currently learning Japanese N4 and CCNA networking.<br>
-🧠 I am also exploring SQLite and the fundamentals of database systems through CS50's Introduction to Databases.<br>
+🛢 I am also exploring SQLite through CS50's Introduction to Databases and the fundamentals of database systems through CMU's Introduction to Database Systems.<br>
 <img src="https://img.icons8.com/?size=160&id=9L16NypUzu38&format=png" alt="LeetCode" width="22" height="22" /> I regularly practice Java and Python problems on LeetCode.<br>
 🤝 I am currently learning React through the Digital Egypt Pioneers Initiative (DEPI) internship and am open to growing with fellow learners and collaborators.
 
@@ -41,11 +41,11 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdaltwabsayed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="470" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdaltwabsayed&layout=compact&theme=tokyonight" alt="Top Languages" width="470" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdaltwabsayed&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="470" />
+  <img src="https://streak-stats.demolab.com/?user=abdaltwabsayed&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="470" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=abdaltwabsayed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="470" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdaltwabsayed&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="470" />
 </div>
 
 ## 📬 **Contact & Socials**
