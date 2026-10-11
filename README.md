@@ -45,7 +45,7 @@
   <br />
   <img src="https://streak-stats.demolab.com/?user=abdaltwabsayed&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="470" />
   <br />
-  <img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=abdaltwabsayed&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="470" />
+  <img src="https://github-stats-extended-ashen.vercel.app/api?username=abdaltwabsayed&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="470" />
 </div>
 
 ## 📬 **Contact & Socials**
